@@ -222,6 +222,15 @@ public class SimpleSeleniumTest {
 
 Если в консоли появится сообщение «Тест пройден:…», значит Selenium WebDriver и драйвер работают корректно.
 
+***
+
+## Тест-кейс и баг репорт: примеры из Kaiten
+
+### :bug: Баг-репорт
+<img width="451" height="433" alt="bug" src="https://github.com/user-attachments/assets/0ee66ada-e519-4bc8-87a3-9b214b230112" />
+
+### :page_facing_up: Тест-кейс
+<img width="448" height="433" alt="test" src="https://github.com/user-attachments/assets/4f51b13b-c8ed-4b5a-ad9e-35af169e77bb" />
 
 
 
